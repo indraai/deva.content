@@ -14,7 +14,9 @@
     "url": "git@github.com:indraai/deva.content.git"
   },
   "keywords": [
-    "adventure"
+    "Content",
+    "Deva",
+    "Deva.world"
   ],
   "bugs": {
     "url": "https://github.com/indraai/deva.content/issues"
