@@ -1,22 +1,23 @@
 {
-  "name": "deva.space",
-  "version": "0.0.2",
-  "description": "The deva.space content",
+  "name": "deva.content",
+  "version": "0.0.1",
+  "author": "Quinn Michaels",
+  "license": "MIT",
+  "copyright": "2025",
+  "description": "Content delivery for the Deva.world platform",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:indraai/adv.git"
+    "url": "git@github.com:indraai/deva.content.git"
   },
   "keywords": [
     "adventure"
   ],
-  "author": "Quinn Michaels",
-  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/indraai/deva.space/issues"
+    "url": "https://github.com/indraai/deva.content/issues"
   },
-  "homepage": "https://github.com/indraai/deva.space#readme"
+  "homepage": "https://deva.world/content"
 }
