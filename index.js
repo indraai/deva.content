@@ -2,6 +2,8 @@
 // Content Deva
 // Manages various Content in Deva.space, Deva.cloud, and Deva.world.
 import Deva from '@indra.ai/deva';
+
+// import package for info
 import pkg from './package.json' with {type:'json'};
 
 import data from './data.json' with {type:'json'};
