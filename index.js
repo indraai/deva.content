@@ -46,4 +46,4 @@ const CONTENT = new Deva({
 		console.log('ERR', err);
 	}
 });
-export default CONTENT
+export default CONTENT;
