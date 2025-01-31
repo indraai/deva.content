@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/indraai/deva.content/issues"
   },
-  "homepage": "https://deva.space/devas/content"
+  "homepage": "https://deva.space/devas/content",
+  "dependencies": {
+    "@indra.ai/deva": "^1.2.39"
+  }
 }
