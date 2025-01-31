@@ -1,23 +1,23 @@
-# deva.space
+# Deva.content
 
-The deva.space content files for the Indra Quantum Computing Environment.
+The deva.content files for the Indra Quantum Computing Environment.
 
 ![Moving Lights](/img/Moving_Lights_GIF.gif)
 
 ## Access
 
-The deva.space can be accessed through your deva.world terminal by calling the necessary command.
+The deva.content can be accessed through your deva.world terminal by calling the necessary command.
 
 ```shell
 
 # Retrieve a world.
-$ #space world:main 0251/main:look
+$ #content world:main 0251/main:look
 
 # Retrieve an agent.
-$ #space agent:main 0005/main:look
+$ #content agent:main 0005/main:look
 
 # Retrieve an object.
-$ #space object:main 1100/main:look
+$ #content object:main 1100/main:look
 
 ```
 

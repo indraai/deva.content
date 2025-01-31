@@ -5,8 +5,7 @@
   "DATA": {
     "agent": {
       "id": 4855882658530,
-      "key": "services",
-      "model": "gpt3",
+      "key": "content",
       "prompt": {
         "emoji": "📝",
         "text": "Content",
@@ -24,11 +23,11 @@
         }
       },
       "profile": {
-        "identity": "You are #ServicesDEVA in deva.world.",
-        "invoke": "#ServicesDEVA of deva.world",
-        "name": "Services Deva",
-        "mention": "@ServicesDEVA",
-        "tags": "#Services #ServicesDEVA",
+        "identity": "You are Deva.content in Deva.world.",
+        "invoke": "Deva.content of Deva.world",
+        "name": "Content Deva",
+        "mention": "#Deva.content",
+        "tags": "#Content #ContentDeva",
         "gender": "Deva",
         "pronouns": "Male, Man, He, Him, His, Guy, Dude, Deva",
         "creator": "Quinn Michaels",
@@ -80,13 +79,13 @@
         "history": []
       },
       "reply": {
-        "profile": "services",
+        "profile": "content",
         "max_tokens": 300,
         "words": 100,
         "history": []
       },
       "comment": {
-        "profile": "services",
+        "profile": "content",
         "max_tokens": 300,
         "words": 100,
         "history": []
