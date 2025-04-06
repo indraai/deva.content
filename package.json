@@ -6,6 +6,7 @@
   "copyright": "2025",
   "description": "Content delivery for the Deva.world platform",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -26,6 +27,6 @@
   },
   "homepage": "https://deva.space/devas/content",
   "dependencies": {
-    "@indra.ai/deva": "^1.3.1"
+    "@indra.ai/deva": "^1.4.23"
   }
 }
