@@ -1,21 +1,12 @@
-::begin:center
-image: /public/devas/::agent_key::/main.png
-::end:center
+::BEGIN:MAIN
+# {{profil.ename}}
 
-# ::agent_name::
-
-::profile::
-
----
-
-talk:#docs view devas/main:security
-
----
-
-copyright: (c)2025 Quinn Michaels
+{{profile}}
 
 ::begin:hidden
-#color = ::agent_color::
-#bgcolor = ::agent_bgcolor::
-#bg = ::agent_background::
+#color = {{profile.color}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.bg}}
 ::end:hidden
+copyright: (c)2025 Quinn Michaels
+::END:MAIN
